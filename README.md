@@ -1,5 +1,5 @@
 # 😊 Hi, I am Kaleb!!   
-💻 Software Engineer showcasing my creativity and skill in the tech world  
+💻 A Software Engineer showcasing my creativity and skill in the tech world  
 🎓 Studied Software Development at SAIT  
 🎶 When I'm not coding, you’ll find me making music
 
